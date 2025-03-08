@@ -56,7 +56,7 @@ The assistant is designed to simplify credit card-related queries, offering user
 ### Steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CardClarityAI.git
+   git clone https://github.com/Bhavank815/CreditWise-AI/tree/main
    cd CardClarityAI
    ```
 
